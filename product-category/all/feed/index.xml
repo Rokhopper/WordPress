@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adventure &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/all/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:27:31 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Adventure &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lost in Random</title>
+		<link>https://rokhopper.github.io/WordPress/product/lost-in-random/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/lost-in-random/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:27:01 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=93</guid>
+
+					<description><![CDATA[Lost in Random is an indie game developed by Swedish studio Zoink and published by Electronic Arts. The game was developed under EA Originals and released for Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S platforms in September 2021.]]></description>
+										<content:encoded><![CDATA[<p>Lost in Random is an indie game developed by Swedish studio Zoink and published by Electronic Arts. The game was developed under EA Originals and released for Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S platforms in September 2021.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/lost-in-random/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lost Castle</title>
+		<link>https://rokhopper.github.io/WordPress/product/lost-castle/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/lost-castle/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:24:26 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=91</guid>
+
+					<description><![CDATA[Lost Castle is a super cool, challenging action RPG with roguelike elements and randomized levels. Filled with many funny cartoon characters and a memorable environment, Lost Castle will not only make you enjoy the game, but will also lift your spirits. Gameplay that combines retro-style action with modern bells and whistles will definitely not leave [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lost Castle is a super cool, challenging action RPG with roguelike elements and randomized levels. Filled with many funny cartoon characters and a memorable environment, Lost Castle will not only make you enjoy the game, but will also lift your spirits. Gameplay that combines retro-style action with modern bells and whistles will definitely not leave you indifferent</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/lost-castle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Battlefield V</title>
+		<link>https://rokhopper.github.io/WordPress/product/battlefield-v/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/battlefield-v/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:20:18 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=89</guid>
+
+					<description><![CDATA[Battlefield V is a first-person shooter video game and the sixteenth in the Battlefield series. Developed by EA DICE and published by Electronic Arts for Windows, PlayStation 4 and Xbox One. The game was announced on May 16, 2018 and first revealed on May 23, 2018.]]></description>
+										<content:encoded><![CDATA[<p>Battlefield V is a first-person shooter video game and the sixteenth in the Battlefield series. Developed by EA DICE and published by Electronic Arts for Windows, PlayStation 4 and Xbox One. The game was announced on May 16, 2018 and first revealed on May 23, 2018.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/battlefield-v/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

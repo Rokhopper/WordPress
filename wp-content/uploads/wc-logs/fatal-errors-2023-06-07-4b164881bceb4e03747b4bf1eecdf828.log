@@ -1,0 +1,4 @@
+2023-06-07T11:56:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у D:\Programs\OS\OSPanel\domains\localhost1\wp-admin\includes\class-wp-filesystem-direct.php доступно 66
+
+2023-06-07T12:10:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у D:\Programs\OS\OSPanel\domains\localhost1\wp-includes\Requests\Transport\cURL.php доступно 484
+

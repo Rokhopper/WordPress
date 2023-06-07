@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fantasy &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/electronics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:33:32 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Fantasy &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dark Age of Camelot</title>
+		<link>https://rokhopper.github.io/WordPress/product/dark-age-of-camelot/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/dark-age-of-camelot/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:33:32 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=99</guid>
+
+					<description><![CDATA[Dark Age of Camelot is a 3D multiplayer online game set in a medieval setting. Includes both the ability to play against monsters controlled by artificial intelligence, and wars between kingdoms. The announcement of the start of development of Dark Age of Camelot was made in late 1999.]]></description>
+										<content:encoded><![CDATA[<p>Dark Age of Camelot is a 3D multiplayer online game set in a medieval setting. Includes both the ability to play against monsters controlled by artificial intelligence, and wars between kingdoms. The announcement of the start of development of Dark Age of Camelot was made in late 1999.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/dark-age-of-camelot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ultima Underworld</title>
+		<link>https://rokhopper.github.io/WordPress/product/ultima-underworld/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/ultima-underworld/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:31:10 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=97</guid>
+
+					<description><![CDATA[Ultima Underworld: The Stygian Abyss is a first-person action role-playing game developed by American studio Blue Sky Productions and released in March 1992 by Origin Systems.]]></description>
+										<content:encoded><![CDATA[<p>Ultima Underworld: The Stygian Abyss is a first-person action role-playing game developed by American studio Blue Sky Productions and released in March 1992 by Origin Systems.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/ultima-underworld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fe</title>
+		<link>https://rokhopper.github.io/WordPress/product/fe/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/fe/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:29:18 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=95</guid>
+
+					<description><![CDATA[Fe is an indie action-adventure/metroidvania game developed by the independent studio Zoink and published by EA Games under the EA Originals program. The game was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One platforms.]]></description>
+										<content:encoded><![CDATA[<p>Fe is an indie action-adventure/metroidvania game developed by the independent studio Zoink and published by EA Games under the EA Originals program. The game was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One platforms.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/fe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

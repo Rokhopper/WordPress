@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Strategy &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/trending/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:57:21 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Strategy &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Plants vs. Zombies</title>
+		<link>https://rokhopper.github.io/WordPress/product/plants-vs-zombies/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/plants-vs-zombies/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:57:21 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=117</guid>
+
+					<description><![CDATA[Get ready to soil your plants as a mob of fun-loving zombies is about to invade your home. Use your arsenal of 49 zombie-zapping plants — peashooters, wall-nuts, cherry bombs and more — to mulchify 26 types of zombies before they break down your door.]]></description>
+										<content:encoded><![CDATA[<p>Get ready to soil your plants as a mob of fun-loving zombies is about to invade your home. Use your arsenal of 49 zombie-zapping plants — peashooters, wall-nuts, cherry bombs and more — to mulchify 26 types of zombies before they break down your door.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/plants-vs-zombies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dragon Age: Origins</title>
+		<link>https://rokhopper.github.io/WordPress/product/dragon-age-origins/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/dragon-age-origins/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:55:33 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=115</guid>
+
+					<description><![CDATA[Dragon Age: Origins — компьютерная ролевая игра, разработанная канадской студией BioWare и выпущенная компанией Electronic Arts для Windows, Playstation 3, Xbox 360 и macOS в 2009 году. Это первая игра в серии Dragon Age.]]></description>
+										<content:encoded><![CDATA[<p>Dragon Age: Origins — компьютерная ролевая игра, разработанная канадской студией BioWare и выпущенная компанией Electronic Arts для Windows, Playstation 3, Xbox 360 и macOS в 2009 году. Это первая игра в серии Dragon Age.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/dragon-age-origins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Command &#038; Conquer: Red Alert 3</title>
+		<link>https://rokhopper.github.io/WordPress/product/command-conquer-red-alert-3/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/command-conquer-red-alert-3/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:54:02 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=113</guid>
+
+					<description><![CDATA[Command &#38; Conquer: Red Alert 3 is a real-time strategy game from the Command &#38; Conquer series developed by EA Los Angeles. This is the first game in the Red Alert series since Yuri&#8217;s Revenge, released in 2001.]]></description>
+										<content:encoded><![CDATA[<p>Command &amp; Conquer: Red Alert 3 is a real-time strategy game from the Command &amp; Conquer series developed by EA Los Angeles. This is the first game in the Red Alert series since Yuri&#8217;s Revenge, released in 2001.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/command-conquer-red-alert-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

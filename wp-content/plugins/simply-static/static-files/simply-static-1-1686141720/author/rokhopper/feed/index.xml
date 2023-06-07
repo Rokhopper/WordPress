@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rokhopper &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/author/rokhopper/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sat, 03 Jun 2023 19:39:10 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>rokhopper &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>EA Play Live</title>
+		<link>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-3/</link>
+					<comments>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-3/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 19:33:14 +0000</pubDate>
+				<category><![CDATA[Designer]]></category>
+		<guid isPermaLink="false">https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-3/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FIFA Next Gen Gameplay</title>
+		<link>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-2/</link>
+					<comments>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:57 +0000</pubDate>
+				<category><![CDATA[Fashion]]></category>
+		<guid isPermaLink="false">https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-2/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EA Originals</title>
+		<link>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days/</link>
+					<comments>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:57 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<guid isPermaLink="false">https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/2023/06/03/everyday-same-happy-days/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

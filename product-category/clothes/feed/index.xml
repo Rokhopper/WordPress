@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Simulation &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/clothes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:52:03 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Simulation &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Skate 3</title>
+		<link>https://rokhopper.github.io/WordPress/product/skate-3/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/skate-3/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:52:02 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=111</guid>
+
+					<description><![CDATA[Skate 3 — видеоигра, симулятор скейтбординга, разработанный EA Black Box и выпущенный Electronic Arts для консолей Xbox 360 и PlayStation 3 в мае 2010 года. Третья и последняя игра в одноименной серии, сиквел игры Skate 2.]]></description>
+										<content:encoded><![CDATA[<p>Skate 3 — видеоигра, симулятор скейтбординга, разработанный EA Black Box и выпущенный Electronic Arts для консолей Xbox 360 и PlayStation 3 в мае 2010 года. Третья и последняя игра в одноименной серии, сиквел игры Skate 2.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/skate-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Simpsons: Tapped Out</title>
+		<link>https://rokhopper.github.io/WordPress/product/the-simpsons-tapped-out/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/the-simpsons-tapped-out/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:49:13 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=109</guid>
+
+					<description><![CDATA[The Simpsons: Tapped Out is a free-to-play game for iOS and Android operating systems based on the American animated series The Simpsons.]]></description>
+										<content:encoded><![CDATA[<p>The Simpsons: Tapped Out is a free-to-play game for iOS and Android operating systems based on the American animated series The Simpsons.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/the-simpsons-tapped-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Sims 4</title>
+		<link>https://rokhopper.github.io/WordPress/product/the-sims-4/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/the-sims-4/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:47:08 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=107</guid>
+
+					<description><![CDATA[The Sims 4 is a single-player life simulation sandbox video game, the fourth in the The Sims series, developed by Maxis and published by Electronic Arts for Windows and macOS.]]></description>
+										<content:encoded><![CDATA[<p>The Sims 4 is a single-player life simulation sandbox video game, the fourth in the The Sims series, developed by Maxis and published by Electronic Arts for Windows and macOS.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/the-sims-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

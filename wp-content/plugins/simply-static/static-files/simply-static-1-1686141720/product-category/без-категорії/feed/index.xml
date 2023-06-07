@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Action &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/%D0%B1%D0%B5%D0%B7-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%97/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:18:15 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Action &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Medal of Honor: Above and Beyond</title>
+		<link>https://rokhopper.github.io/WordPress/product/medal-of-honor-above-and-beyond/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/medal-of-honor-above-and-beyond/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:18:15 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=87</guid>
+
+					<description><![CDATA[Medal of Honor: Above and Beyond is a first-person shooter video game for virtual reality helmets developed by Respawn Entertainment and released on December 11, 2020.]]></description>
+										<content:encoded><![CDATA[<p>Medal of Honor: Above and Beyond is a first-person shooter video game for virtual reality helmets developed by Respawn Entertainment and released on December 11, 2020.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/medal-of-honor-above-and-beyond/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crysis 2</title>
+		<link>https://rokhopper.github.io/WordPress/product/crysis-2/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/crysis-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:16:00 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=85</guid>
+
+					<description><![CDATA[Crysis 2 is a sci-fi first-person shooter video game developed by the German company Crytek and published by Electronic Arts. The game was released on March 22, 2011 in North America, March 24, 2011 in Europe and March 25, 2011 in Australia for PC, Xbox 360 and PlayStation 3 platforms.]]></description>
+										<content:encoded><![CDATA[<p>Crysis 2 is a sci-fi first-person shooter video game developed by the German company Crytek and published by Electronic Arts. The game was released on March 22, 2011 in North America, March 24, 2011 in Europe and March 25, 2011 in Australia for PC, Xbox 360 and PlayStation 3 platforms.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/crysis-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Star Wars Jedi: Survivor</title>
+		<link>https://rokhopper.github.io/WordPress/product/product-04/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/product-04/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/product/product-04/</guid>
+
+					<description><![CDATA[Star Wars Jedi: Survivor is an action-adventure video game developed by Respawn Entertainment and published by Electronic Arts. It is a direct sequel to Star Wars Jedi: Fallen Order released in 2019. The game was released on April 28, 2023 for Windows, PlayStation 5 and Xbox Series X/S.]]></description>
+										<content:encoded><![CDATA[<p>Star Wars Jedi: Survivor is an action-adventure video game developed by Respawn Entertainment and published by Electronic Arts. It is a direct sequel to Star Wars Jedi: Fallen Order released in 2019. The game was released on April 28, 2023 for Windows, PlayStation 5 and Xbox Series X/S.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/product-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

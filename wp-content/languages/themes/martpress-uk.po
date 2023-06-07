@@ -1,0 +1,69 @@
+# Translation of Themes - MartPress in Ukrainian
+# This file is distributed under the same license as the Themes - MartPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-01 15:27:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - MartPress\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "MartPress is a modern and unique WooCommerce WordPress Theme, The theme is suitable for any shop like cloth, electronics, furniture, accessories, flowers, or any other, Its beautiful and clear style has been designed to showcase your products and increase your sales. Checkout the Pro Demo https://vfthemes.com/theme-demo/martpress-pro/"
+msgstr "MartPress — це сучасна й унікальна WooCommerce WordPress тема, яка підходить для будь-якого магазину, як-от магазини одягу, електроніки, меблів, аксесуарів, квітів, або будь-який інший. Її красивий і ясний стиль був розроблений, щоб показати ваші продукти в кращому світлі та збільшити ваші продажі. Ознайомтеся з демонстраційною версією https://vfthemes.com/theme-demo/martpress-pro/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "MartPress"
+msgstr "MartPress"
+
+#: inc/customizer/customizer-upsale/class-customize.php:77
+msgid "Pro Demo"
+msgstr "Про-демо"
+
+#: inc/customizer/customizer-upsale/class-customize.php:75
+msgid "Upgrade to Pro"
+msgstr "Оновити до Про"
+
+#: inc/customizer/customizer-upsale/class-customize.php:74
+msgid "MartPress Pro"
+msgstr "MartPress Pro"
+
+#: template-parts/sections/section-header.php:86
+msgid "Search Products"
+msgstr "Шукати товари"
+
+#: template-parts/sections/section-header.php:62
+msgid "Header Above Collapse"
+msgstr "Згортання верху заголовку"
+
+#: template-parts/sections/section-header.php:56
+msgid "Header Close Menu"
+msgstr "Меню закриття заголовку"
+
+#: template-parts/sections/section-header.php:47
+msgid "Menu Collaped"
+msgstr "Згорнуте меню"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Перейти до контенту"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://vfthemes.com/themes/martpress-free/"
+msgstr "https://vfthemes.com/themes/martpress-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://vfthemes.com/"
+msgstr "https://vfthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "vfthemes"
+msgstr "vfthemes"

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MMORPG &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/footwear/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Jun 2023 16:44:11 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>MMORPG &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UltimaOnline</title>
+		<link>https://rokhopper.github.io/WordPress/product/ultimaonline/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/ultimaonline/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:44:11 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=105</guid>
+
+					<description><![CDATA[Ultima Online is a Massively Multiplayer Online Role Playing Game released by Origin Systems on September 24, 1997. Ultima Online was one of the first MMORPGs, and became the first representative of this genre to achieve worldwide popularity, which had a huge impact on the entire industry.]]></description>
+										<content:encoded><![CDATA[<p>Ultima Online is a Massively Multiplayer Online Role Playing Game released by Origin Systems on September 24, 1997. Ultima Online was one of the first MMORPGs, and became the first representative of this genre to achieve worldwide popularity, which had a huge impact on the entire industry.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/ultimaonline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Secret World</title>
+		<link>https://rokhopper.github.io/WordPress/product/the-secret-world/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/the-secret-world/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:42:19 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/the-secret-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Star Wars: The Old Republic</title>
+		<link>https://rokhopper.github.io/WordPress/product/star-wars-the-old-republic/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/star-wars-the-old-republic/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2023 16:35:42 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/?post_type=product#038;p=101</guid>
+
+					<description><![CDATA[Star Wars: The Old Republic is a story-based massively multiplayer online role-playing game developed by BioWare in Austin, Texas, USA. The events in the game take place 300 years after the games in the Knights of the Old Republic series.]]></description>
+										<content:encoded><![CDATA[<p>Star Wars: The Old Republic is a story-based massively multiplayer online role-playing game developed by BioWare in Austin, Texas, USA. The events in the game take place 300 years after the games in the Knights of the Old Republic series.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/star-wars-the-old-republic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Racing &#8211; EA_Store</title>
+	<atom:link href="https://rokhopper.github.io/WordPress/product-category/best-seller/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<description></description>
+	<lastBuildDate>Sat, 03 Jun 2023 20:03:28 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://rokhopper.github.io/WordPress/wp-content/uploads/2023/06/cropped-cropped-october-ea-ring-32x32.png</url>
+	<title>Racing &#8211; EA_Store</title>
+	<link>https://rokhopper.github.io/WordPress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Need for Speed</title>
+		<link>https://rokhopper.github.io/WordPress/product/product-01/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/product-01/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/product/product-01/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/product-01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dirt 5</title>
+		<link>https://rokhopper.github.io/WordPress/product/product-02/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/product-02/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/product/product-02/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/product-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Burnout Paradise</title>
+		<link>https://rokhopper.github.io/WordPress/product/product-03/</link>
+					<comments>https://rokhopper.github.io/WordPress/product/product-03/#respond</comments>
+		
+		<dc:creator><![CDATA[rokhopper]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 16:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://rokhopper.github.io/WordPress/product/product-03/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rokhopper.github.io/WordPress/product/product-03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
